@@ -23,10 +23,12 @@
   list-style: none;
 }
 .Weather img {
-  height: 64px;
-  width: 64px;
+  height: 80px;
+  width: 80px;
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 6px;
+  position: relative;
+  top: -10px;
 }
 .Weather .temperature {
   font-weight: bold;
