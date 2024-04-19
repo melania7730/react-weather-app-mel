@@ -23,12 +23,7 @@
   list-style: none;
 }
 .Weather canvas {
-  height: 70px;
-  width: 70px;
-  display: inline-block;
-  margin-right: 6px;
-  position: relative;
-  bottom: -6px;
+  margin: 10px auto;
 }
 .Weather .temperature {
   font-weight: bold;
